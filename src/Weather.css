@@ -1,0 +1,19 @@
+.Weather {
+  text-align: left;
+  padding: 20px;
+  border: 1px solid #dadde1;
+  border-radius: 5px;
+}
+.btn-color {
+  background-color: #f76b8a;
+  color: whitesmoke;
+}
+.temp,
+.emoji {
+  font-size: 64px;
+}
+.unit {
+  font-size: 16px;
+  position: relative;
+  top: -34px;
+}
